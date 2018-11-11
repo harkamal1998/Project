@@ -1,0 +1,12 @@
+.card .description{
+  color:grey;
+}
+.price{
+  font-weight:bold;
+}
+
+.img{
+  max-height:150px;
+  max-width:150px;
+
+}
